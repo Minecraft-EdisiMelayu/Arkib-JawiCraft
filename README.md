@@ -7,5 +7,5 @@
 <br>
 <font size=2>Arkib ini akan dibuka pada 31 Ogos 2023 sempena sambutan Ulang Tahun Kedua JawiCraft</p>
 This archive will be opened on August 31st 2023 to celebrate JawiCraft's 2nd Anniversary</p>
-<p align="left">ارکيب اين اکن دبوک ڤد  31  اوݢوس  2023 سمڤنا سمبوتن اولڠ تاهون کدوا جاويکرف‌ت</p>
+<p align="left">ارکيب اين اکن دبوک ڤد  31  اوݢوس  2023 سمڤنا سمبوتن اولڠ تاهون کدوا جاوي‌کرف‌ت</p>
 </details>
