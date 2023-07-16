@@ -9,3 +9,7 @@
 This archive will be opened on August 31st 2023 to celebrate JawiCraft's 2nd Anniversary</p>
 <p align="left">ارکيب اين اکن دبوک ڤد  31  اوݢوس  2023 سمڤنا سمبوتن اولڠ تاهون کدوا جاوي‌کرف‌ت</p>
 </details>
+
+#### Pautan Muat Turun Versi Terkini / Download Links for Latest Version</p>
+<font size=1>[CurseForge](https://legacy.curseforge.com/minecraft/texture-packs/jawicraft-language-pack/)</p>
+<font size=1>[PlanetMinecraft](https://www.planetminecraft.com/texture-pack/jawicraft-language-pack/)</p>
