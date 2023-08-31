@@ -2,8 +2,8 @@
 
 ## <p align="center"><font size=4> <strong>Arkib Rasmi JawiCraft / JawiCraft Official Archive</strong></p>
 
-### <p align="center"><font size=2>Arkib rasmi untuk semua versi JawiCraft, termasuk binaan beta
-#### <p align="center"><font size=2>ارکيب راسمي اونتوق سموا ۏرسي جاوي کرف‌ت، ترماسوق بيناءن بيتا
+### <p align="center"><font size=2>Arkib rasmi untuk semua versi JawiCraft, termasuk binaan-binaan beta
+#### <p align="center"><font size=2>ارکيب راسمي اونتوق سموا ۏرسي جاوي کرف‌ت، ترماسوق بيناءن٢ بيتا
 ##### <p align="center"><font size=1>The official archive for all versions of JawiCraft, including beta builds
 
 #
@@ -11,7 +11,7 @@
 #
 # Katalog Versi / Version Catalog
 ### [Keluaran Penuh / Full Release](https://github.com/Minecraft-EdisiMelayu/Arkib-JawiCraft/blob/main/katalog-versi-keluaran-penuh.md)
-### [Binaan Beta](https://github.com/Minecraft-EdisiMelayu/Arkib-JawiCraft/blob/main/katalog-versi-binaan-beta.md)
+### [Binaan Beta / Beta Builds](https://github.com/Minecraft-EdisiMelayu/Arkib-JawiCraft/blob/main/katalog-versi-binaan-beta.md)
 #
 
 # <p align="center">Pautan Muat Turun Versi Terkini / Download Links for The Latest Version</p>
