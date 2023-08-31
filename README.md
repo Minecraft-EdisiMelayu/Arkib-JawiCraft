@@ -1,15 +1,19 @@
-<p align="center"><img src="https://i.imgur.com/lUyeJp9.png"  width="360" height="143">
+# <p align="center"><img src="https://i.imgur.com/lUyeJp9.png"  width="360" height="143">
 
-### <p align="center"><font size=5><strong>Arkib Rasmi JawiCraft / JawiCraft Official Archive</strong></p>
+## <p align="center"><font size=4> <strong>Arkib Rasmi JawiCraft / JawiCraft Official Archive</strong></p>
 
-<details>
-<summary>Bilakah arkib ini akan dibuka? When will this archive be opened?</summary>
-<br>
-<font size=2>Arkib ini akan dibuka pada 31 Ogos 2023 sempena sambutan Ulang Tahun Kedua JawiCraft</p>
-This archive will be opened on August 31st 2023 to celebrate JawiCraft's 2nd Anniversary</p>
-<p align="left">ارکيب اين اکن دبوک ڤد  31  اوݢوس  2023 سمڤنا سمبوتن اولڠ تاهون کدوا جاوي‌کرف‌ت</p>
-</details>
+### <p align="center"><font size=2>Arkib rasmi untuk semua versi JawiCraft, termasuk binaan beta
+#### <p align="center"><font size=2>ارکيب راسمي اونتوق سموا ۏرسي جاوي کرف‌ت، ترماسوق بيناءن بيتا
+##### <p align="center"><font size=1>The official archive for all versions of JawiCraft, including beta builds
 
-#### Pautan Muat Turun Versi Terkini / Download Links for Latest Version</p>
-<font size=1>[CurseForge](https://legacy.curseforge.com/minecraft/texture-packs/jawicraft-language-pack/)</p>
-<font size=1>[PlanetMinecraft](https://www.planetminecraft.com/texture-pack/jawicraft-language-pack/)</p>
+#
+# Log Perubahan / Changelogs (Coming Soon)
+#
+# Katalog Versi / Version Catalog
+### [Keluaran Penuh / Full Release](https://github.com/Minecraft-EdisiMelayu/Arkib-JawiCraft/blob/main/katalog-versi-keluaran-penuh.md)
+### [Binaan Beta](https://github.com/Minecraft-EdisiMelayu/Arkib-JawiCraft/blob/main/katalog-versi-binaan-beta.md)
+#
+
+# <p align="center">Pautan Muat Turun Versi Terkini / Download Links for The Latest Version</p>
+<font size=1>[CurseForge - Semua Versi Minecraft](https://legacy.curseforge.com/minecraft/texture-packs/jawicraft-language-pack/)</p>
+<font size=1>[PlanetMinecraft - Minecraft 1.18](https://www.planetminecraft.com/texture-pack/jawicraft-language-pack/)</p>
