@@ -1,5 +1,20 @@
 # <p align="center"><img src="https://i.imgur.com/lUyeJp9.png"  width="360" height="143">
-# <p align="center">The entire JawiCraft changelog!
+# <p align="center">The entire JawiCraft changelog!<br />
+
+[Back to the wiki](https://github.com/Minecraft-EdisiMelayu/MCEM-Wiki/wiki)
+
+---
+# v1.9 (??/12/2023)
+- Changed the language code from `ms_arab_my` to `zlm_arab`, so it would be cross-compatible between versions before and after 1.19
+- Support for pre-1.13 version has been re-introduced!
+  - For versions 1.7 - 1.10, after applying the pack, restart your game to apply the font changes properly (due to the [MC-41270](https://bugs.mojang.com/browse/MC-41270) bug)
+- Added Malay translations for splash texts, credits and the End Poem, which are taken from the [MCSplahes](https://github.com/SmajloSlovakian/MinecraftSplashTextTranslation) project, by SmajloSlovakian
+  - Added Jawi translations for most of the splash texts! Some are kept in Rumi Malay due to problems with punctuations marks and stuff
+    - Some of splash texts with diacritics will look broken due to how Minecraft's Unifont system works, especially in pre-1.20 versions
+  - Credits' and End Poem's translation are kept in Rumi Malay due to possiblities of having problems with reading Jawi texts on top of the dirt background
+    - Might be reconsidered at some point, but for now, enjoy the Rumi translations!
+- Un-Jawi-fied the "Copyright Mojang AB." text, due to alignment problems which cause some characters to be rendered out of bounds (1.20.2+)
+- Fixed some untranslated painting names (both Rumi & Jawi, 1.19.3+)
 
 ---
 # 1.8
