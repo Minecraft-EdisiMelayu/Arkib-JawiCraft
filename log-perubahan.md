@@ -4,7 +4,7 @@
 [Back to the wiki](https://github.com/Minecraft-EdisiMelayu/MCEM-Wiki/wiki)
 
 ---
-# v1.9 (??/12/2023)
+# v1.9 (??/12/2023) [1.7 - 1.20]
 - Initial Modrinth release!
 - Changed the language code from `ms_arab_my` to `zlm_arab`, so it would be cross-compatible between versions before and after 1.19
 - Support for pre-1.13 version has been re-introduced!
