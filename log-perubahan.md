@@ -7,6 +7,7 @@
 # v1.9 (??/12/2023) [1.7 - 1.20]
 - Initial Modrinth release!
 - Changed the language code from `ms_arab_my` to `zlm_arab`, so it would be cross-compatible between versions before and after 1.19
+- Merged 1.17 & 1.18 packs into a single pack
 - Support for pre-1.13 version has been re-introduced!
   - For versions 1.7 - 1.10, after applying the pack, restart your game to apply the font changes properly (due to the [MC-41270](https://bugs.mojang.com/browse/MC-41270) bug)
 - Added Malay translations for splash texts, credits and the End Poem, which are taken from the [MCSplahes](https://github.com/SmajloSlovakian/MinecraftSplashTextTranslation) project, by SmajloSlovakian
@@ -17,6 +18,9 @@
 - Un-Jawi-fied the "Copyright Mojang AB." text, due to alignment problems which cause some characters to be rendered out of bounds (1.20.2+)
 - Fixed some untranslated painting names (both Rumi & Jawi, 1.19.3+)
 - Updated both in-game credits and credits within the zip file
+- Updated pack icons for all versions!
+  - 1.7 - 1.14 & 1.17-1.18 versions have their background updated, to better reflect their respective updates
+  - 1.15-1.16, 1.19 & 1.20 (along side all the other versions) simply have the JawiCraft logo updated, to fix a kerning problem within the "کرف‌ت" text (which I never noticed before)
 
 ---
 # 1.8
