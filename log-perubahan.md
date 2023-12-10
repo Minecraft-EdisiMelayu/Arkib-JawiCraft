@@ -5,6 +5,7 @@
 
 ---
 # v1.9 (??/12/2023)
+- Initial Modrinth release!
 - Changed the language code from `ms_arab_my` to `zlm_arab`, so it would be cross-compatible between versions before and after 1.19
 - Support for pre-1.13 version has been re-introduced!
   - For versions 1.7 - 1.10, after applying the pack, restart your game to apply the font changes properly (due to the [MC-41270](https://bugs.mojang.com/browse/MC-41270) bug)
