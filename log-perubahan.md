@@ -15,6 +15,7 @@
     - Might be reconsidered at some point, but for now, enjoy the Rumi translations!
 - Un-Jawi-fied the "Copyright Mojang AB." text, due to alignment problems which cause some characters to be rendered out of bounds (1.20.2+)
 - Fixed some untranslated painting names (both Rumi & Jawi, 1.19.3+)
+- Updated both in-game credits and credits within the zip file
 
 ---
 # 1.8
