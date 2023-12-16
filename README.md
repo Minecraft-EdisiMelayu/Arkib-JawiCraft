@@ -10,7 +10,7 @@
 ---
 
 
-# [Log Perubahan / Changelogs](https://github.com/Minecraft-EdisiMelayu/Arkib-JawiCraft/blob/main/log-perubahan.md)
+# [Log Perubahan / Changelogs](https://github.com/Minecraft-EdisiMelayu/MCEM-Wiki/wiki/JawiCraft-Language-Pack-‐-Changelog)
 
 # Katalog Versi / Version Catalog
 ### [Keluaran Penuh / Full Release](https://github.com/Minecraft-EdisiMelayu/Arkib-JawiCraft/blob/main/katalog-versi-keluaran-penuh.md)
