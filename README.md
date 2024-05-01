@@ -18,5 +18,4 @@
 #
 
 # Pautan Muat Turun Versi Terkini / Download Links for The Latest Version</p>
-<font size=1>[CurseForge - Semua Versi Minecraft](https://legacy.curseforge.com/minecraft/texture-packs/jawicraft-language-pack/)</p>
-<font size=1>[PlanetMinecraft - Minecraft 1.18](https://www.planetminecraft.com/texture-pack/jawicraft-language-pack/)</p>
+<font size=1>[Modrinth - Semua Versi Minecraft](https://modrinth.com/resourcepack/jawicraft-language-pack)</p>
